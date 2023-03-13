@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+    background-size: cover;
+}
+h1{
+    font-size: 250px;
+    color: #504949;
+    display: inline;
+    margin:  120px;
+    
+}
+h2{
+    color: yellow;
+    font-size: 80px;
+    
+}
+.inner{
+    max-width: 637px;
+    height: 123px;
+    
+    
+    margin: -246px 69px 28px 461px;
+
+}
+.outer{
+   
+    padding: 50px 100px 20px 30px;
+}
+h3{
+    color: white;
+    font-size: xx-large;
+
+}
+p{
+    color: white;
+}
+.badadiv{
+    display: flex;
+    gap: 150px;
+}
+.frm{
+    color: aliceblue;
+}
+.inp{
+    height: 50px;
+    width: 800px;
+    background-color: black;
+    color: white;
+    border-color: aliceblue;
+    
+}
+.inpp{
+    height: 100px;
+    width: 800px;
+    background-color: black;
+    color: white;
+    border-color: aliceblue;
+}
+button{
+    background-color: yellow;
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+    border-color: black;
+    font-size: 22px
+
+}

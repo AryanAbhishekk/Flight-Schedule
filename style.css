@@ -1,0 +1,101 @@
+body{
+    background-image: url(image/wallpapersden.com_tree-reflection-water_1920x1299.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: orange;
+    font-size: 80px;
+    margin: 0%;
+}
+p{
+    color: white;
+    font-size: 25px;
+
+}
+li{
+    display: inline-block;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: solid;
+    color: white;
+}
+a{
+    color: orange;
+    margin: 20px 20px ;
+    font-size:20px;
+    text-decoration: none;
+    justify-content: space-between;
+
+}
+.Small1{
+    padding: 50px 20px;
+}
+.small2{
+    border: 3px solid white;
+    width:200px ;
+    border-radius: 20px;
+    color: rgb(251, 250, 248);
+    padding: 40px 30px;
+    margin: 80px 10px;
+    bottom: 0;
+    right: 160px;
+
+}
+.login{
+    color: rgb(227, 151, 9);
+    background-color: white;
+    border-radius: 10px;
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    font-size: large;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    
+}
+input{
+    border: none;
+    border-bottom: 2px rgb(224, 206, 206);
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+}
+button{
+    color: rgb(8, 8, 8);
+    background-color:orange;
+    border-radius: 10px;
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    font-size: large;
+    padding: 1px 7px;
+
+}
+.d{
+    text-align: center;
+    color: aliceblue;
+}
+sgn{
+    color: orange;
+    text-align: center;
+    padding: 0px 60px;
+    background-color: blue;
+}
+su{
+    text-align: center;
+    padding-right: 60px;
+}
+.BigBox{
+    display: flex;
+    column-gap: 200px;
+    row-gap: 100px;
+    
+}
+
+.nv{
+
+}
+
+

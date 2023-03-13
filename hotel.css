@@ -1,0 +1,69 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.header{
+    background-image: url(image/Luxury-Holiday.jpg);
+    background-repeat: no-repeat;
+    height: 380px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    left: 200vw;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 700px;
+    
+    background: rgba(251, 251, 251, 0.2);
+    border-radius: 60px;
+    padding: 27px 31px 30px 45px;
+    margin: auto;
+
+    
+}
+input{
+    height: 45px;
+    width: 620px;
+    border-radius: 15px;
+    font-size: xx-large;
+    font-family: sans-serif;
+    
+    
+}
+button{
+    border-radius: 20px;
+    height: 52px;
+    width: 62px;
+    margin: 10px;
+    background: transparent;
+
+}
+button img {
+    height: 35px;
+}
+.badadiv{
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto auto auto auto;
+    row-gap: 50px;
+}
+.sbox{
+    height:350px;
+    width: 300px;
+    margin: 20px;
+    background-color: aliceblue;
+    box-shadow: 10px 10px 10px 0 gray;
+    justify-items: center;
+
+}
+h1{
+    margin: 30px;
+}
